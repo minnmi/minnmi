@@ -1,4 +1,4 @@
-<h2> Hi, I'm Miriam Mendes! <!-- <img src="https://media.giphy.com/media/Y0V3Gbcb6ZOUTmVeNL/giphy.gif" width="70"> --> </h2>
+<h2> Hi, I'm Miriam Mendes! <!-- <img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="70"> --> </h2>
 <img align='right' src="https://c.tenor.com/r7dqZ6cyywoAAAAd/cat-computer.gif" width="230">
 <p><em>Computer Engineering student at <a href="http://ifmt.edu.br/"> Instituto Federal de Mato Grosso</a>
 </em></p>
