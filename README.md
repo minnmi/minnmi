@@ -41,7 +41,7 @@ const minnmi = {
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Miriam Mendes' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=minnmi&theme=dracula" /></a>
+      <a href="[![Miriam Mendes' Activity Graph]https://activity-graph.herokuapp.com/graph?username=minnmi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
     </td>
   </tr>
 </table>
