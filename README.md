@@ -46,5 +46,5 @@ const minnmi = {
   </tr>
 </table>
 
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
